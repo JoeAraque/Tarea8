@@ -1,12 +1,12 @@
 # Tarea8
-INTEGRANTES
+## INTEGRANTES
 
 1. Araque Jaime
 2. Alexander Ballesteros
 3. Morales Kevin
 
 NRC: 10149
-### TEMA: Circuito RC, Circuito RL
+## TEMA: Circuito RC, Circuito RL
 ## 1. Objetivos
 ### Objetivo general
 ### Objetivos especificos
