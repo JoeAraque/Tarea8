@@ -12,7 +12,7 @@ NRC: 10149
 ### Objetivos especificos
 ## 2. Marco teorico
 
-
+zcvcv
 
 
 ![map1](https://user-images.githubusercontent.com/93224166/153528124-078ba75f-3610-4671-89c6-2030507a7c80.png)
