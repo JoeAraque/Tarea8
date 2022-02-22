@@ -40,6 +40,42 @@ Dado un número complejo en su forma binómica z=a+bi las dos características p
 
 
 
+9.Identifique el cuadrante en el cual se localiza cada uno de los puntos del problema 8.
+![9 1](https://user-images.githubusercontent.com/93928146/155041926-4e6fe0e3-e91e-4f39-8e1b-a33cc1379d59.PNG)
+
+![9 2](https://user-images.githubusercontent.com/93928146/155041932-f00a57a0-3ebc-4bb8-bb55-6cf169033e81.PNG)
+
+![9 3](https://user-images.githubusercontent.com/93928146/155041934-bd84dbb8-a99a-463f-ae9d-f17b846fa14e.PNG)
+
+![9 4](https://user-images.githubusercontent.com/93928146/155041939-385794fb-43ad-4248-8f3d-ad3e22c4a0e3.PNG)
+
+
+
+
+
+11.Escriba las expresiones polares utilizando ángulos positivos para cada uno de los fasores de la figura 15-83.
+
+![11 1](https://user-images.githubusercontent.com/93928146/155042068-47cae3f2-6dc5-4e66-8c0b-d12554c9c8e1.PNG)
+
+A) Se mantiene la misma expresión polar 12 ∠ 115°
+![11 2](https://user-images.githubusercontent.com/93928146/155042099-40d56034-e909-422d-b1a2-57405e30db3d.PNG)
+
+
+B) Al ángulo negativo le sumamos 360° lo cual nos queda: 20 ∠ 230°
+![11 3](https://user-images.githubusercontent.com/93928146/155042128-2f5a177c-e429-4d01-be3c-94f3075f9c14.PNG)
+
+D) Al angulo negativo le sumamos 360° lo cual nos queda: 50 ∠ 160°
+
+![11 4](https://user-images.githubusercontent.com/93928146/155042133-ab05dca5-a2a1-4f9f-942b-abb51f3844b9.PNG)
+
+
+13.	Realice las siguientes sustracciones:.
+
+
+
+
+
+
 
 
 
