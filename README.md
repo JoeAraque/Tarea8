@@ -139,23 +139,29 @@ C)Simplificamos el circuito con los conocimientos de resistencias y condensadore
 
 45. Para el circuito de la figura 15-97, determine lo siguiente:
 
+![45-15](https://user-images.githubusercontent.com/93951775/155045628-0d64b4e4-c179-418f-8393-9e1515b5cd5b.JPG)
 
 47. Cambie el circuito de la figura 15-98 a una forma equivalente dispuesta en serie.
 
+![47-15](https://user-images.githubusercontent.com/93951775/155045634-e8df5580-8650-4172-a1c0-e282b03ea343.JPG)
 
 49. Determine los voltajes en forma polar a través de cada elemento de la figura 15-100. Trace el diagrama
 fasorial de voltaje.
 
+![49 51-15](https://user-images.githubusercontent.com/93951775/155045638-515821a8-4459-4fd8-8a5b-23078b0d9c78.JPG)
 
 51. Encuentre la corriente a través de cada rama y la corriente total en la figura 15-100. Exprese las corrientes
 en forma polar. Trace el diagrama fasorial de corriente.
 
+![49 51-15](https://user-images.githubusercontent.com/93951775/155045638-515821a8-4459-4fd8-8a5b-23078b0d9c78.JPG)
 
 53. Determine el valor de C2 en la figura 15-102 cuando VA  VB.
 
+![53-15](https://user-images.githubusercontent.com/93951775/155045643-53faddf2-a1ca-4f2a-a138-f1c044d52ef3.JPG)
 
 55. Encuentre la corriente a través de cada componente en la figura 15-103.
 
+![55-15](https://user-images.githubusercontent.com/93951775/155045647-58ad74c9-6619-4fc6-b5fb-6b227a15283e.JPG)
 
 57. En un circuito RC en serie, la potencia real es de 2 Wy la potencia reactiva de 3.5 VAR. Determine la
 potencia aparente.
@@ -163,6 +169,7 @@ potencia aparente.
 
 59. ¿Cuál es el factor de potencia para el circuito de la figura 15-98?
 
+![47-15](https://user-images.githubusercontent.com/93951775/155045634-e8df5580-8650-4172-a1c0-e282b03ea343.JPG)
 
 61. Una sola fuente de 240 V y 60 Hz alimenta dos cargas. La carga A tiene impedancia de 50 Æ y factor
 de potencia de 0.85. La carga B tiene impedancia de 72 Æ y factor de potencia de 0.95.
@@ -182,17 +189,20 @@ de potencia de 0.85. La carga B tiene impedancia de 72 Æ y factor de potencia d
 a la entrada del amplificador 2 sea por lo menos un 70.7% del voltaje de señal a la salida del amplificador
 1 cuando la frecuencia es de 20 Hz?
 
+![63-15](https://user-images.githubusercontent.com/93951775/155045653-727fb45e-6354-45e8-a5d2-2effdb6a0b9a.JPG)
 
 65. Suponga que el capacitor de la figura 15-106 tiene fugas en exceso. Muestre cómo afecta esta degradación
 al voltaje de salida y al ángulo de fase, suponiendo que la resistencia de fuga es de 5 kÆ y la
 frecuencia de 10 Hz.
 
+![65-15](https://user-images.githubusercontent.com/93951775/155045660-27540663-b996-46e3-8dbb-f93a18b57ef9.JPG)
 
 67. Determine el voltaje de salida para el circuito de la figura 15-107(a) para cada uno de los siguientes
 modos de falla, y compárelo con la salida correcta:
 
 (a) abierto (b) abierto (c) C abierto (d) C en cortocircuito
 
+![67-15](https://user-images.githubusercontent.com/93951775/155045670-c70859e3-fdc6-49f8-babf-e26df0247210.JPG)
 
 1. Se aplica un voltaje sinusoidal de 15 kHz a un circuito RL en serie. ¿Cuál es la frecuencia de I, VR y
 VL?
@@ -200,13 +210,17 @@ VL?
 
 3. Exprese la impedancia total de cada circuito de la figura 16-54 tanto en forma polar como rectangular.
 
+![3-16](https://user-images.githubusercontent.com/93951775/155045673-c276afc6-e8c4-4150-8658-26e273a1dc4d.JPG)
 
 5. En la figura 16-56, determine la impedancia para cada una de las siguientes frecuencias:
+
 (a) 100 Hz (b) 500 Hz (c) 1 kHz (d) 2 kHz
 
+![5-16](https://user-images.githubusercontent.com/93951775/155045812-d1777a92-f270-465c-a404-44736c8e0cd6.JPG)
 
 7. Reduzca el circuito de la figura 16-57 a una sola resistencia e inductancia en serie.
 
+![7-16](https://user-images.githubusercontent.com/93951775/155045826-d42ace8d-2c76-4d62-8458-74b26d111a64.JPG)
 
 9. Con el mismo voltaje aplicado en el problema 8, determine el voltaje a través de L3 para el circuito de
 la figura 16-57.
@@ -214,6 +228,7 @@ la figura 16-57.
 
 11. Calcule la corriente total en cada circuito de la figura 16-55 y exprésela en forma polar.
 
+![11-16](https://user-images.githubusercontent.com/93951775/155045842-3180649f-72f0-42fe-9fd9-497671e888cb.JPG)
 
 
 
