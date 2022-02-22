@@ -172,6 +172,8 @@ C)Simplificamos el circuito con los conocimientos de resistencias y condensadore
 
 ![45-15](https://user-images.githubusercontent.com/93951775/155045628-0d64b4e4-c179-418f-8393-9e1515b5cd5b.JPG)
 
+![4515](https://user-images.githubusercontent.com/93951775/155145156-6fadb795-41a8-4673-9e39-f36bef8a6015.JPG)
+
 47. Cambie el circuito de la figura 15-98 a una forma equivalente dispuesta en serie.
 
 ![47-15](https://user-images.githubusercontent.com/93951775/155045634-e8df5580-8650-4172-a1c0-e282b03ea343.JPG)
@@ -186,6 +188,8 @@ en forma polar. Trace el diagrama fasorial de corriente.
 
 ![49 51-15](https://user-images.githubusercontent.com/93951775/155045638-515821a8-4459-4fd8-8a5b-23078b0d9c78.JPG)
 
+![5115](https://user-images.githubusercontent.com/93951775/155145176-05adf5c3-616f-4ec3-8b88-387c781aaef3.JPG)
+
 53. Determine el valor de C2 en la figura 15-102 cuando VA  VB.
 
 ![53-15](https://user-images.githubusercontent.com/93951775/155045643-53faddf2-a1ca-4f2a-a138-f1c044d52ef3.JPG)
@@ -197,6 +201,7 @@ en forma polar. Trace el diagrama fasorial de corriente.
 57. En un circuito RC en serie, la potencia real es de 2 Wy la potencia reactiva de 3.5 VAR. Determine la
 potencia aparente.
 
+![5715](https://user-images.githubusercontent.com/93951775/155145184-b8936c79-31db-4706-a0e3-0a75e6531364.JPG)
 
 59. ¿Cuál es el factor de potencia para el circuito de la figura 15-98?
 
@@ -242,6 +247,8 @@ VL?
 3. Exprese la impedancia total de cada circuito de la figura 16-54 tanto en forma polar como rectangular.
 
 ![3-16](https://user-images.githubusercontent.com/93951775/155045673-c276afc6-e8c4-4150-8658-26e273a1dc4d.JPG)
+
+![316](https://user-images.githubusercontent.com/93951775/155145192-c18a9990-e808-4b3c-a441-c2ede2d85232.JPG)
 
 5. En la figura 16-56, determine la impedancia para cada una de las siguientes frecuencias:
 
