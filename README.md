@@ -9,10 +9,18 @@ NRC: 10149
 ## TEMA: Circuito RC, Circuito RL
 ## 1. Objetivos
 ### Objetivo general
+* Revisar y Analizar los circuito RC y Rl en todas sus formas, mediante el calculo y leyes que tienen cada uno de estos para una comprencion del tema planteado.
 ### Objetivos especificos
+* Usar números complejos para expresar cantidades fasoriales
+* Transformar numeros complejos en cordenadas polares
+* Describir la relación entre corriente y voltaje en un circuito RC en serie, paralelo y mixto.
+* Analizar un circuito RL en serie, paralelo y mixto.
+* Describir la relación entre corriente y voltaje en un circuito RL en serie, paralelo y mixto.
+* Determinar la impedancia de un circuito RL en serie, paralelo y mixto.
+
 ## 2. Marco teorico
 
-zcvcv
+
 
 
 ![map1](https://user-images.githubusercontent.com/93224166/153528124-078ba75f-3610-4671-89c6-2030507a7c80.png)
@@ -343,5 +351,18 @@ la figura 16-57.
 
 ## 4. Video 
 ## 5. Conclusiones
-## 6. Bibliografia
 
+* Un número complejo representa una cantidad fasorial.
+* La forma rectangular de un número complejo consta de una parte real y una parte j de la forma A + jB.
+* La forma polar de un número complejo consta de una magnitud y un ángulo de la forma C ∠ Ou.
+* Los números complejos pueden ser sumados, restados, multiplicados y divididos.
+* Cuando se aplica un voltaje sinusoidal a un circuito RC, la corriente y todas las caídas de voltaje también
+son ondas seno.
+* Cuando se aplica un voltaje sinusoidal a un circuito RL, la corriente y todas las caídas de voltaje son ondas senoidales.
+* La corriente total en un circuito RL en serie o en paralelo siempre se retrasa con respecto al voltaje de fuente.
+* En un circuito RL, tanto la resistencia como la reactancia inductiva combinadas determinan la impedancia.
+* La impedancia se expresa en unidades de ohms.
+* La impedancia de un circuito RL varía directamente con la frecuencia.
+
+## 6. Bibliografia
+Floyd, F. (s. f.). Principios de Circuitos electricos.
