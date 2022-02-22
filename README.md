@@ -231,6 +231,16 @@ la figura 16-57.
 ![11-16](https://user-images.githubusercontent.com/93951775/155045842-3180649f-72f0-42fe-9fd9-497671e888cb.JPG)
 
 
+**13. Si se duplica la inductancia que aparece en la figura 16-58, ¿en cuántos grados aumenta o disminuye u?**
+**15. Para el circuito de la figura 16-59, encuentre VR y VL para cada una de las siguientes frecuencias: (a) 60 Hz (b) 200 Hz (c) 500 Hz (d) 1 kHz**
+**17. Para el circuito de retraso de la figura 16-61, determine el retraso de fase del voltaje de salida con respecto a la entrada a las siguientes frecuencias: (a) 1 Hz (b) 100 Hz (c) 1 kHz (d) 10 kHz**
+**19. ¿Cuál es la impedancia expresada en forma polar para el circuito de la figura 16-63?**
+**21. ¿A qué frecuencia XL es igual a R en la figura 16-63**
+**23. Determine las siguientes cantidades en la figura 16-65: (a) Z (b) (c) (d) (e) IR IL Itot u**
+**25. Convierta el circuito mostrado en la figura 16-66 en uno equivalente en serie.**
+
+**31. Para el circuito de la figura 16-70, determine lo siguiente: (a) (b) (c) *32. Trace el diagrama fasorial de los voltajes y las corrientes que aparecen en la figura 16-70. VL1 VAB**
+**33. Determine el desplazamiento de fase y la atenuación (relación de Vsal a Vent) desde la entrada hasta la salida en el circuito de la figura 16-71.**
 
 
 
