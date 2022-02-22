@@ -69,7 +69,31 @@ D) Al angulo negativo le sumamos 360° lo cual nos queda: 50 ∠ 160°
 ![11 4](https://user-images.githubusercontent.com/93928146/155042133-ab05dca5-a2a1-4f9f-942b-abb51f3844b9.PNG)
 
 
-13.	Realice las siguientes sustracciones:.
+13.	Realice las siguientes sustracciones:
+
+
+![13](https://user-images.githubusercontent.com/93928146/155042311-ba897a38-0499-480a-886c-153c80d0570c.PNG)
+![13 1](https://user-images.githubusercontent.com/93928146/155042316-a0d4e3f5-ed38-48d4-9c1d-e4970cee5d74.PNG)
+
+
+
+15. Realice las siguientes divisiones:
+
+![15](https://user-images.githubusercontent.com/93928146/155042524-9c4af717-6c7e-4a81-8543-450dfba9969f.PNG)
+
+
+
+![15 1](https://user-images.githubusercontent.com/93928146/155042528-5cbb00d9-03b2-476b-b428-428b64517c41.PNG)
+![15 2](https://user-images.githubusercontent.com/93928146/155042537-ddd875d3-e8ea-4b3e-9d41-9d0886744e05.PNG)
+
+
+17.Se aplica un voltaje sinusoidal a 8 kHz a un circuito RC en serie. ¿Cuál es la frecuencia del voltaje a través del resistor? ¿A través del capacitor?
+•	La frecuencia del voltaje a través del resitor es 8kHz
+•	la frecuencia del voltaje a traves del capacitor es 8kHz
+
+
+19.Exprese la impedancia total de cada circuito mostrado en la figura 15-84 tanto en forma polar como rectangular.
+
 
 
 
