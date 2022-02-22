@@ -27,10 +27,13 @@ zcvcv
 
 
 1.	¿Cuáles son las dos características de una cantidad indicada mediante un número complejo?
+2.	
 Dado un número complejo en su forma binómica z=a+bi las dos características principales son: Magnitud o Módulo y el ángulo
 
 
 5. ¿Cuál es el valor de la hipotenusa de un triángulo rectángulo cuyos lados son 10 y 15?
+
+
 ![5](https://user-images.githubusercontent.com/93928146/155041599-2c3be455-9b6d-4633-aa13-f23a7f61b415.PNG)
 
 7.Convierta cada uno de los siguientes números polares en forma rectangular:
@@ -41,6 +44,7 @@ Dado un número complejo en su forma binómica z=a+bi las dos características p
 
 
 9.Identifique el cuadrante en el cual se localiza cada uno de los puntos del problema 8.
+
 ![9 1](https://user-images.githubusercontent.com/93928146/155041926-4e6fe0e3-e91e-4f39-8e1b-a33cc1379d59.PNG)
 
 ![9 2](https://user-images.githubusercontent.com/93928146/155041932-f00a57a0-3ebc-4bb8-bb55-6cf169033e81.PNG)
@@ -58,10 +62,12 @@ Dado un número complejo en su forma binómica z=a+bi las dos características p
 ![11 1](https://user-images.githubusercontent.com/93928146/155042068-47cae3f2-6dc5-4e66-8c0b-d12554c9c8e1.PNG)
 
 A) Se mantiene la misma expresión polar 12 ∠ 115°
+
 ![11 2](https://user-images.githubusercontent.com/93928146/155042099-40d56034-e909-422d-b1a2-57405e30db3d.PNG)
 
 
 B) Al ángulo negativo le sumamos 360° lo cual nos queda: 20 ∠ 230°
+
 ![11 3](https://user-images.githubusercontent.com/93928146/155042128-2f5a177c-e429-4d01-be3c-94f3075f9c14.PNG)
 
 D) Al angulo negativo le sumamos 360° lo cual nos queda: 50 ∠ 160°
@@ -73,6 +79,7 @@ D) Al angulo negativo le sumamos 360° lo cual nos queda: 50 ∠ 160°
 
 
 ![13](https://user-images.githubusercontent.com/93928146/155042311-ba897a38-0499-480a-886c-153c80d0570c.PNG)
+
 ![13 1](https://user-images.githubusercontent.com/93928146/155042316-a0d4e3f5-ed38-48d4-9c1d-e4970cee5d74.PNG)
 
 
@@ -84,6 +91,7 @@ D) Al angulo negativo le sumamos 360° lo cual nos queda: 50 ∠ 160°
 
 
 ![15 1](https://user-images.githubusercontent.com/93928146/155042528-5cbb00d9-03b2-476b-b428-428b64517c41.PNG)
+
 ![15 2](https://user-images.githubusercontent.com/93928146/155042537-ddd875d3-e8ea-4b3e-9d41-9d0886744e05.PNG)
 
 
@@ -97,38 +105,53 @@ D) Al angulo negativo le sumamos 360° lo cual nos queda: 50 ∠ 160°
 
 
 ![19](https://user-images.githubusercontent.com/93928146/155042773-76761533-e76d-4fca-babe-2a651b71c9bb.PNG)
+
 ![19 1](https://user-images.githubusercontent.com/93928146/155042780-009e341c-4617-4eb9-abbb-6daae503a38a.PNG)
 
 
 21.Para el circuito de la figura 15-86, determine la impedancia expresada en forma rectangular para cada una de las siguientes frecuencias:
+
 ![21 1](https://user-images.githubusercontent.com/93928146/155042963-b99cd8ce-bc00-4275-a5c2-4ec117a1da50.PNG)
+
 ![21 2](https://user-images.githubusercontent.com/93928146/155042968-58921663-1c7e-4a97-9d0b-9455103f1970.PNG)
+
 ![21 3](https://user-images.githubusercontent.com/93928146/155042970-0fcf319b-f1ae-4f7e-ac7d-7f02d60ba458.PNG)
+
 ![21 4](https://user-images.githubusercontent.com/93928146/155042975-ca95c5fc-e1bc-477e-9dcb-8570946feb2e.PNG)
+
 ![21 5](https://user-images.githubusercontent.com/93928146/155042983-ae1a1e30-5594-4eb2-b91a-e627d931cb73.PNG)
 
 
 
 23.. Determine los valores de R y XC en un circuito RC en serie para los siguientes valores de impedancia total:
+
 ![23 1](https://user-images.githubusercontent.com/93928146/155043158-6ae7982e-7bee-4de0-bbc9-82a6d132b682.PNG)
+
 ![23 2](https://user-images.githubusercontent.com/93928146/155043159-5047d458-3299-44fe-abda-b62f0ea364d0.PNG)
+
 ![23 3](https://user-images.githubusercontent.com/93928146/155043165-91ecb1e7-c3b6-415d-bed9-3941cd45dd98.PNG)
+
 ![23 4](https://user-images.githubusercontent.com/93928146/155043166-28fbbebd-343f-4c8c-8397-7d0e9b64079c.PNG)
+
 ![23 5](https://user-images.githubusercontent.com/93928146/155043167-1cf1f057-9eed-4824-8904-5c648977f49b.PNG)
 
 
 29.Calcule la corriente total en cada circuito de la figura 15-85 y exprésela en forma polar.
+
 ![29 1](https://user-images.githubusercontent.com/93928146/155043264-ed3b9d0c-0410-4ce2-87f2-beff38bd22f9.PNG)
 
 
 A) Simplificamos el circuito con los conocimientos de resistencias y capacitores tanto en serie como paralelo
+
 ![29 2](https://user-images.githubusercontent.com/93928146/155043313-78d55c35-26df-4bce-9396-2d4e3bc337eb.PNG)
 
 B)Simplificamos el circuito con los conocimientos de resistencias y condensadores tanto en serie como paralelo
+
 ![29 3](https://user-images.githubusercontent.com/93928146/155043418-62193b3a-e5a7-4b36-a61e-63fa5dcd2cfc.PNG)
 
 
 C)Simplificamos el circuito con los conocimientos de resistencias y condensadores tanto en serie como paralelo
+
 ![29 4](https://user-images.githubusercontent.com/93928146/155043476-20745829-4e72-4f76-8312-be827bce3ec8.PNG)
 
 
@@ -232,15 +255,67 @@ la figura 16-57.
 
 
 **13. Si se duplica la inductancia que aparece en la figura 16-58, ¿en cuántos grados aumenta o disminuye u?**
+
+![13 1 37](https://user-images.githubusercontent.com/93224166/155051580-6f61e5f5-a498-47bb-aebc-97db9fbb2284.png)
+![13](https://user-images.githubusercontent.com/93224166/155051583-48b0038f-a12f-4be9-9e07-d3a0d737752b.png)
+
 **15. Para el circuito de la figura 16-59, encuentre VR y VL para cada una de las siguientes frecuencias: (a) 60 Hz (b) 200 Hz (c) 500 Hz (d) 1 kHz**
+
+![15 1](https://user-images.githubusercontent.com/93224166/155051585-e7f746db-e53e-4b8a-91f4-9600a9f92ef1.png)
+
+![15](https://user-images.githubusercontent.com/93224166/155051586-72644bdd-1468-46a3-baac-2449cc20cad9.png)
+
 **17. Para el circuito de retraso de la figura 16-61, determine el retraso de fase del voltaje de salida con respecto a la entrada a las siguientes frecuencias: (a) 1 Hz (b) 100 Hz (c) 1 kHz (d) 10 kHz**
+
+![17 1](https://user-images.githubusercontent.com/93224166/155051587-7962a9d0-dcd9-4806-b940-0eb9c63113e9.png)
+
+![17](https://user-images.githubusercontent.com/93224166/155051588-eb211040-7879-444d-b996-f73e6e205cf6.png)
+
 **19. ¿Cuál es la impedancia expresada en forma polar para el circuito de la figura 16-63?**
+
+![19 1 21](https://user-images.githubusercontent.com/93224166/155051590-0a412821-aef2-4a30-8e7f-5184f9690528.png)
+
+![19](https://user-images.githubusercontent.com/93224166/155051591-d640643e-2eb3-4a55-b6ae-342f8f4722ee.png)
+
 **21. ¿A qué frecuencia XL es igual a R en la figura 16-63**
+
+
+
+![19 1 21](https://user-images.githubusercontent.com/93224166/155051590-0a412821-aef2-4a30-8e7f-5184f9690528.png)
+
+![21](https://user-images.githubusercontent.com/93224166/155051592-9ea05976-37a1-4b84-8068-8ce07b63d2d9.png)
+
+
+
 **23. Determine las siguientes cantidades en la figura 16-65: (a) Z (b) (c) (d) (e) IR IL Itot u**
+
+![23 1](https://user-images.githubusercontent.com/93224166/155051596-2649c4d5-f55a-4cdc-b4c2-3d3e490dce01.png)
+
+![23](https://user-images.githubusercontent.com/93224166/155051598-d4417e6b-9658-404a-a32c-634d0b46bde1.png)
+
 **25. Convierta el circuito mostrado en la figura 16-66 en uno equivalente en serie.**
 
-**31. Para el circuito de la figura 16-70, determine lo siguiente: (a) (b) (c) *32. Trace el diagrama fasorial de los voltajes y las corrientes que aparecen en la figura 16-70. VL1 VAB**
+![25 1](https://user-images.githubusercontent.com/93224166/155051599-d4d648c3-004e-444e-b4fe-38e31a1d088e.png)
+
+![25](https://user-images.githubusercontent.com/93224166/155051603-ce27a805-4974-4e2e-aa95-32cdd38799a7.png)
 **33. Determine el desplazamiento de fase y la atenuación (relación de Vsal a Vent) desde la entrada hasta la salida en el circuito de la figura 16-71.**
+
+![33 1](https://user-images.githubusercontent.com/93224166/155051606-e9d68ab9-c0e5-4e2f-a3da-49a5cca5150f.png)
+
+![33](https://user-images.githubusercontent.com/93224166/155051607-8262171e-17aa-4dde-9c3d-da2cca7a2b17.png)
+
+**37. Determine la potencia verdadera y la potencia reactiva en la figura 16-58.**
+
+![13 1 37](https://user-images.githubusercontent.com/93224166/155051580-6f61e5f5-a498-47bb-aebc-97db9fbb2284.png)
+
+![37](https://user-images.githubusercontent.com/93224166/155051608-90046568-dd3a-47f1-9f57-b217f3c8534b.png)
+
+**39. Determine P, Q, S y FP para el circuito de la figura 16-69. Trace el triángulo de potencia.**
+
+
+![39 1](https://user-images.githubusercontent.com/93224166/155051609-eeb6e964-542c-4072-88bc-c47838da9805.png)
+
+![39](https://user-images.githubusercontent.com/93224166/155051611-2fb8256a-4b8e-4dfa-9750-33a952227ec0.png)
 
 
 
