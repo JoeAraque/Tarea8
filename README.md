@@ -240,9 +240,17 @@ modos de falla, y compárelo con la salida correcta:
 
 ![67-15](https://user-images.githubusercontent.com/93951775/155045670-c70859e3-fdc6-49f8-babf-e26df0247210.JPG)
 
+A) R1 abierto
+
+B) R2  abierto 
+
+C) C abierto
+
+D) C en cortociercuito
 1. Se aplica un voltaje sinusoidal de 15 kHz a un circuito RL en serie. ¿Cuál es la frecuencia de I, VR y
 VL?
 
+la frecuencia siempre va a ser de 15 H
 
 3. Exprese la impedancia total de cada circuito de la figura 16-54 tanto en forma polar como rectangular.
 
