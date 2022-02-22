@@ -96,6 +96,48 @@ D) Al angulo negativo le sumamos 360° lo cual nos queda: 50 ∠ 160°
 
 
 
+![19](https://user-images.githubusercontent.com/93928146/155042773-76761533-e76d-4fca-babe-2a651b71c9bb.PNG)
+![19 1](https://user-images.githubusercontent.com/93928146/155042780-009e341c-4617-4eb9-abbb-6daae503a38a.PNG)
+
+
+21.Para el circuito de la figura 15-86, determine la impedancia expresada en forma rectangular para cada una de las siguientes frecuencias:
+![21 1](https://user-images.githubusercontent.com/93928146/155042963-b99cd8ce-bc00-4275-a5c2-4ec117a1da50.PNG)
+![21 2](https://user-images.githubusercontent.com/93928146/155042968-58921663-1c7e-4a97-9d0b-9455103f1970.PNG)
+![21 3](https://user-images.githubusercontent.com/93928146/155042970-0fcf319b-f1ae-4f7e-ac7d-7f02d60ba458.PNG)
+![21 4](https://user-images.githubusercontent.com/93928146/155042975-ca95c5fc-e1bc-477e-9dcb-8570946feb2e.PNG)
+![21 5](https://user-images.githubusercontent.com/93928146/155042983-ae1a1e30-5594-4eb2-b91a-e627d931cb73.PNG)
+
+
+
+23.. Determine los valores de R y XC en un circuito RC en serie para los siguientes valores de impedancia total:
+![23 1](https://user-images.githubusercontent.com/93928146/155043158-6ae7982e-7bee-4de0-bbc9-82a6d132b682.PNG)
+![23 2](https://user-images.githubusercontent.com/93928146/155043159-5047d458-3299-44fe-abda-b62f0ea364d0.PNG)
+![23 3](https://user-images.githubusercontent.com/93928146/155043165-91ecb1e7-c3b6-415d-bed9-3941cd45dd98.PNG)
+![23 4](https://user-images.githubusercontent.com/93928146/155043166-28fbbebd-343f-4c8c-8397-7d0e9b64079c.PNG)
+![23 5](https://user-images.githubusercontent.com/93928146/155043167-1cf1f057-9eed-4824-8904-5c648977f49b.PNG)
+
+
+29.Calcule la corriente total en cada circuito de la figura 15-85 y exprésela en forma polar.
+![29 1](https://user-images.githubusercontent.com/93928146/155043264-ed3b9d0c-0410-4ce2-87f2-beff38bd22f9.PNG)
+
+
+A) Simplificamos el circuito con los conocimientos de resistencias y capacitores tanto en serie como paralelo
+![29 2](https://user-images.githubusercontent.com/93928146/155043313-78d55c35-26df-4bce-9396-2d4e3bc337eb.PNG)
+
+B)Simplificamos el circuito con los conocimientos de resistencias y condensadores tanto en serie como paralelo
+![29 3](https://user-images.githubusercontent.com/93928146/155043418-62193b3a-e5a7-4b36-a61e-63fa5dcd2cfc.PNG)
+
+
+C)Simplificamos el circuito con los conocimientos de resistencias y condensadores tanto en serie como paralelo
+![29 4](https://user-images.githubusercontent.com/93928146/155043476-20745829-4e72-4f76-8312-be827bce3ec8.PNG)
+
+
+
+
+
+
+
+
 
 
 
